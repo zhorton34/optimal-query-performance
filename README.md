@@ -33,4 +33,3 @@
 
 
 [Clean Code Studio](https://cleancode.studio)
-[Find How](https://find.how)
