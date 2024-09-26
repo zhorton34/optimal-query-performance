@@ -1,5 +1,8 @@
 # Optimal Query Performance
 
+## Query Performance in Laravel: 100 Considerations
+[Query Performance](https://github.com/zhorton34/query-performance.md)
+
 ## SQL Joins in Laravel: Enhancing Query Performance
 
 | Section                               | Link                                                                                                                                                                         |
